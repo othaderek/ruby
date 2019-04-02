@@ -1,0 +1,15 @@
+# List of Ruby Projects to make #
+
+Objective: 
+
+The list here is meant to set some attainable goals for establishing a productive programming routine while potentially creating a portfolio. This is in preparation for the App Academy cohort I'm looking to join and the technical interview I will have on the 18th of April for that bootcamp. 
+
+1. Basic Rails App
+2. A site for Logical Fallacies
+3. Website that links to information regarding US foreign policy
+4. A personal website/blog
+5. Website that links to information regarding political ideologies
+6. A Ruby Webscraper
+
+
+The list will undoubtedly evolve and grow. STAY MOTIVATED.
