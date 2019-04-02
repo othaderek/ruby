@@ -10,6 +10,20 @@ The list here is meant to set some attainable goals for establishing a productiv
 4. A personal website/blog
 5. Website that links to information regarding political ideologies
 6. A Ruby Webscraper
+7. Social Network Utility
+		a.) have posts, followers, comments, and at least one unique/advanced feature.
+		b.) Would show that I would know how to work comfortably with complex data models such as ones required by social networking application.
+8. API Tool
+		a.) Develop a search engine for StackOverflow (or something) that enables more advanced features than the main web application.
+	b.) A project lik ethis would show that you can work with APIs and can implement a search engine feature.
+9. Accounting Application
+		a.) Works with financial calculationsm callbacks, advanced database queries, and information security
+10. Scheduling Application
+		a.) Will show tha you know how to work with date and times, along with complex validations.
+11. Front End Application
+		a.) Build app with front end framework such as Angular JS or React and integrate it with Rails backend.
+		b.) Will show that you know how to work with service based architecture.
 
 
-The list will undoubtedly evolve and grow. STAY MOTIVATED.
+
+The list will undoubtedly evolve and grow. STAY MOTIVATED. GET SHIT DONE!
