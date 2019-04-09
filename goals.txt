@@ -2,7 +2,7 @@
 
 Objective: 
 
-The list here is meant to set some attainable goals for establishing a productive programming routine while potentially creating a portfolio. This is in preparation for the App Academy cohort I'm looking to join and the technical interview I will have on the 18th of April for that bootcamp. 
+The list here is meant to set some attainable goals for establishing a productive programming routine while potentially creating a portfolio. This is anticipating the Access Labs bootcamp that I will be attending. These projects are meant to showcase all of my technical knowledge. I will be implementing my Ruby knowledge with Rails on the backend and using vanilla Javascript and it's frameworks on the front-end. I would also like to focus on doing some backend programming with JS but haven't decided what projects to do this with yet. Will update further in the near future once I am much more familiar with some of the frameworks and their capabilities.
 
 1. Basic Rails App
 2. A site for Logical Fallacies
@@ -23,6 +23,10 @@ The list here is meant to set some attainable goals for establishing a productiv
 11. Front End Application
 		a.) Build app with front end framework such as Angular JS or React and integrate it with Rails backend.
 		b.) Will show that you know how to work with service based architecture.
+12. Leah's personal website
+13. The Scythian Productions website
+
+
 
 
 
