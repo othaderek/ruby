@@ -1,0 +1,43 @@
+||/* Javascript things to master (For advanced JS) */|| 
+-------------------------------------------------------
+
+These are notes that I've taken from a Chris Hawkes Youtube video
+Link here:https://www.youtube.com/watch?v=OIioG0cx0Wo
+
+
+
+1. This Keyword
+	What is it? Why does it work? How does it work?
+
+2. Functions
+	Functions are first-class objects in JS. They can be passed
+	around like strings and numbers. They can be anonymous (named
+	or unnamed). Callbacks.
+
+3. Prototypes
+	Understand how new objects are created and how prototypal enheritance works. 
+
+4. IIFE & Modules
+	Why does IIFE exist? JQuery uses this pattern.
+
+5. Global Namespace
+	Dont attach things to a window object
+
+6. Closures
+	Creates interesting ways to approach or solve problems. Really understanding lexical scope is important.
+
+7. Babel vs Typescript
+	What do they each aim to do? Who is behind these projects?
+
+8. Object constructors
+	
+9. Specification
+	ECMA script specification. READ IT.
+
+10. Chrome Dev Tools
+	Understand how to execute JS from console. 
+	Good for inspecting JS objects and executing small statements
+
+
+_______________________________________________________________________
+
