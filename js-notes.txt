@@ -8,6 +8,9 @@ Link here:https://www.youtube.com/watch?v=OIioG0cx0Wo
 
 1. This Keyword
 	What is it? Why does it work? How does it work?
+	It has some differences between strict mode and non-strict mode.
+	Value of this is determined by how a function is called.
+	This references the object that is executing the current function.
 
 2. Functions
 	Functions are first-class objects in JS. They can be passed
@@ -19,6 +22,8 @@ Link here:https://www.youtube.com/watch?v=OIioG0cx0Wo
 
 4. IIFE & Modules
 	Why does IIFE exist? JQuery uses this pattern.
+	IIFE are Immediately Invoked Function Expressions. 
+	They are javascript functions that immediately run as soon as they are defined.
 
 5. Global Namespace
 	Dont attach things to a window object
@@ -41,3 +46,28 @@ Link here:https://www.youtube.com/watch?v=OIioG0cx0Wo
 
 _______________________________________________________________________
 
+||/* 4 Javascript Design patterns you must know */|| 
+----------------------------------------------------
+
+1. Module Design Pattern
+2. Protype Design Pattern
+3. Observer Design Pattern
+4. Singleton
+
+Each pattern consists of many properties, though, I will emphasize the following key points:
+
+Context: Where/under what circumstances is the pattern used?
+Problem: What are we trying to solve?
+Solution: How does using this pattern solve our proposed problem?
+Implementation: What does the implementation look like?
+
+1. Module Design Pattern
+	Modules most prevalently used for keeping particular pieces of code independent of other components. Provides loose coupling to 
+	supportwell structured code.
+	Modules are JS classes. Encapsulation: protecting states and behaviors from being accessed from other classes.
+
+_______________________________________________________________________
+
+||/* Answering tricky JS Interview questions */||
+
+28 minute Youtbe video that
