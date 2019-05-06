@@ -70,4 +70,30 @@ _______________________________________________________________________
 
 ||/* Answering tricky JS Interview questions */||
 
-28 minute Youtbe video that
+28 minute Youtbe video t
+
+_______________________________________________________________________
+||/* What is Node.js? */|| (Twitter bot tutorial)
+----------------------------------------------------
+
+When you type into your browser, say to google.com you are making a request to their server, and that server gives you a response. 
+Request >> Response.
+If you're creating a basic html, css, js site, well thats one thing, but what happens if you're trying to do mroe than that? You build a server application. Node is a framework for writing custom servers. Twitter api requires OAuth. An answer to this is creating a server application with node.
+
+_______________________________________________________________________
+||/* Arrow Functions */||
+-------------------------
+
+I've been playing around with arrow functions. They sort of remind me of what I think lambdas in python are. The syntax looks a lot cleaner than normal functions but the idea isnt to use arrow functions entirely as a replacement. The idea is to use arrow functions within normal functions as a form of encapsulation. There are a nubmer of others ways to use them but thats what I have witnessed thus far.
+
+
+
+
+
+
+
+
+
+
+
+

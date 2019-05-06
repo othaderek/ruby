@@ -1,28 +1,29 @@
-# def only_even(arr)
+# Review of all Ruby concepts learned
+# This will include reviewing Learn Co problems
 
-#   i = 0
-#   new_arr = []
+# Linked List as a method
+# a = [1,2,3,4,5,6,7,8]
 
-#   while i < arr.length
-#     if arr[i] % 2 == 0
-#       new_arr << arr[i]
-#     else
-#     end
-#     i += 1
-#   end
-#   return new_arr
+# def insert(arr, item, pos)
+#   tmp = arr[pos]
+#   arr[pos] = item
 
-# end 
+#   arr.replace(arr[0..pos] + [tmp] + arr[pos+1..-1])
+# end
 
-# puts only_even([2,23,45,66,75,89,98])
+# insert(a, 204, 3)
+# p a
 
-######### --------------------------------- #############
-def from_to(first, last)
-  
-  arr = (first..last)
 
-  arr.each { |i| puts i }
+i = 0
+arr = [1,2,3,4,5,6,7,8]
 
+while i < arr.length
+  puts "This is #{arr[i]}."
+
+  i += 1
 end
 
-from_to(1, 13)
+arr.each do |i|
+  puts "This is #{i}"
+end
